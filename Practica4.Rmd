@@ -1,0 +1,22 @@
+---
+title: "Practica 4"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Titulo 1
+
+## Titulo 2
+
+Ejercicio 1 día 12 de Enero
+
+```{r, echo=FALSE, eval=TRUE}
+plot(1:10)
+plot(cars)
+library(ggplot2)
+library(purrr)
+
+```
